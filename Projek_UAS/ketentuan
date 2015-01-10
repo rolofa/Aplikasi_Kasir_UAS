@@ -1,0 +1,18 @@
+program kasir
+individu
+kupul 10 januari (softcopy:program, source, database, manual; printout:manualbook, package/bungkus)
+demo 13 januari jam 8.00-11.30 & protofolio (kertas A4, cover, kata pengantar, daftar isi, isi, materi, tugas, pengerjaan tugas, hasil, penutup)
+
+cek http://blog.stikom.edu\teguh
+
+ketentuan
+user : kasir, supervisor
+kasir : transaksi, cek stok, cetak transaksi
+supervisor : menambah data barang, hapus data barang, hapus stransaksi, cetak data barang
+
+menggunakan database
+
+konsep
+cd berisi installer jre, installer aplikasi, manual bentuk pdf
+label cd, tempat cd
+
